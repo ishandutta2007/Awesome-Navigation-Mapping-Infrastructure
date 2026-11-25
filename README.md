@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Navigation-Mapping-Infrastructure/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -60,9 +60,9 @@ Below is a detailed comparison of top commercial hosted mapping, routing, and ge
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of production-grade open-source navigation engines, tile servers, renderers, geocoders, and spatial databases. **Sorted in descending order by GitHub stargazer count**. Every star badge links directly to the project's stargazers page.
+Curated list of production-grade open-source navigation engines, tile servers, renderers, geocoders, and spatial databases. **Sorted in descending order by GitHub stargazer count**. Every Stars_Badge links directly to the project's stargazers page.
 
-| Project / Repository 📦 | GitHub Stars ⭐ | Category 🏷️ | Core Language 💻 | Description 📖 |
+| Project / Repository 📦 | GitHub_Stars ⭐ | Category 🏷️ | Core Language 💻 | Description 📖 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Leaflet](https://github.com/Leaflet/Leaflet)** | [![Leaflet Stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=social&color=white)](https://github.com/Leaflet/Leaflet/stargazers) | Map Rendering SDK | JavaScript | The ubiquitous, mobile-friendly (~42 KB) open-source JavaScript library for interactive 2D web maps with an expansive plugin ecosystem. |
 | **[Organic Maps](https://github.com/organicmaps/organicmaps)** | [![Organic Maps Stars](https://img.shields.io/github/stars/organicmaps/organicmaps?style=social&color=white)](https://github.com/organicmaps/organicmaps/stargazers) | Mobile GPS App | C++ / Java / Swift | Privacy-first, offline navigation app for hikers, cyclists, and drivers powered by OpenStreetMap. Zero ads, zero tracking, zero bloat. |
@@ -140,7 +140,7 @@ Contributions are always welcome! Help keep this mapping and navigation director
 1. 🍴 Fork the repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-project`).
 3. 📝 Add your entry to the appropriate table or section following the existing markdown style and column structure.
-4. 🔗 Ensure all URLs, GitHub links, and star badges are accurate.
+4. 🔗 Ensure all URLs, GitHub links, and Stars_Badges are accurate.
 5. 🚀 Submit a Pull Request with a clear summary of your additions.
 
 ---
